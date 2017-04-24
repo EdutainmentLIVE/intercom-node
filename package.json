@@ -1,5 +1,5 @@
 {
-  "name": "intercom-client",
+  "name": "@itprotv/intercom-client",
   "version": "2.8.7",
   "description": "Official Node bindings to the Intercom API",
   "homepage": "https://github.com/intercom/intercom-node",
